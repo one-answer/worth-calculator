@@ -100,7 +100,7 @@ const SalaryCalculator = () => {
     <div className="max-w-4xl mx-auto p-4 space-y-8 text-gray-900 dark:text-white">
       <div className="text-center space-y-2">
         <h1 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600 dark:from-blue-400 dark:to-purple-400">
-          这b班上得值不值·测算版
+          这b班上得值不值
         </h1>
         {/* GitHub 链接和访问量计数 */}
         {/*<div className="flex flex-col items-center gap-2 text-sm text-gray-600 dark:text-gray-400">*/}

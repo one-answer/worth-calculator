@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "worth-calculator",
-  description: "worth-calculator",
+  title: "这b班上得值不值",
+  description: "这b班上得值不值",
 };
 
 export default function RootLayout({
