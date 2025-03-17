@@ -2,7 +2,7 @@
 
 > 🤔 "这b班到底值不值得上？" —— 打工人日常疑惑
 
-在线体验：[https://jobworth.zippland.com/](https://jobworth.zippland.com/)
+在线体验：[https://niuma.aolifu.org/](https://niuma.aolifu.org/)
 
 ## 这是什么？
 
