@@ -27,10 +27,11 @@ export default function RootLayout({
   return (
     <html lang="en">
     <head>
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3811349067654166"
-              crossOrigin="anonymous"></script>
-      
-      <Script async src="https://www.googletagmanager.com/gtag/js?id=G-7NW87MMQ05" />
+      <link rel="icon" href="https://storage.xxlb.org/niuma1.jpg" type="image/x-icon"/>
+      <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3811349067654166"
+              crossOrigin="anonymous"/>
+
+      <Script async src="https://www.googletagmanager.com/gtag/js?id=G-7NW87MMQ05"/>
       <Script id="google-analytics">
         {`
           window.dataLayer = window.dataLayer || [];
